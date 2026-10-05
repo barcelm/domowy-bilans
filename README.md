@@ -22,7 +22,7 @@ w folderze `domowy-bilans`.
 ## Krok 1. Konto serwisowe Google (dostęp aplikacji do arkusza)
 
 ```bash
-PROJECT_ID=pracedomowe-510513          # Twój projekt (płatności niepotrzebne)
+PROJECT_ID=pracedomowe-123456          # Twój projekt ID
 gcloud config set project $PROJECT_ID
 gcloud services enable sheets.googleapis.com drive.googleapis.com
 
