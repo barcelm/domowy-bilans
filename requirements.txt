@@ -1,0 +1,8 @@
+shiny>=1.0
+pandas>=2.0
+numpy
+matplotlib
+pillow
+gspread>=6.0
+tzdata
+jinja2
